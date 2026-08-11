@@ -1,3 +1,5 @@
+
+
 # Kyara: Knowledge Yielding Adaptive Retrieval Augmentation for LLM Fine-tuning
 
 [![DOI](https://zenodo.org/badge/844304447.svg)](https://zenodo.org/badge/latestdoi/844304447)
@@ -79,7 +81,7 @@ We’ve open-sourced both our [solution](https://medium.com/data-science-collect
 
 ## Usage
 
-Kyara 採用了和 Gemma2 一樣的架構，因此在推理上可以沿用 [Google 的官方教學]([https://huggingface.co/google/gemma-2-2b-it](https://huggingface.co/google/gemma-2-2b-it#usage))。此外，我們也在 Kaggle 上提供了一個 [Jupyter Notebook](https://www.kaggle.com/code/zake7749/kyara-a-compact-yet-powerful-chinese-llm) ，演示 Kyara 的各項基本功能，如寫作、摘要、開放式問答、數學計算以及 RAG 等各種情境。
+Kyara 採用了和 Gemma2 一樣的架構，因此在推理上可以沿用 [Google 的官方教學](https://huggingface.co/google/gemma-2-2b-it#usage)。此外，我們也在 Kaggle 上提供了一個 [Jupyter Notebook](https://www.kaggle.com/code/zake7749/kyara-a-compact-yet-powerful-chinese-llm) ，演示 Kyara 的各項基本功能，如寫作、摘要、開放式問答、數學計算以及 RAG 等各種情境。
 
 ### Running with the `pipeline` API
 
